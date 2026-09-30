@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-in-place-canvas-ast-patcher-skill",
+  "version": "1.0.0",
+  "description": "Fine-grained block AST patcher for in-place canvas editing allowing surgical node updates without full document rebuild",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "canvas-editor",
+    "ast-patcher",
+    "in-place-editing",
+    "diff-engine",
+    "autonomous-agents",
+    "block-editor",
+    "python-standard-library",
+    "agent-skills",
+    "incremental-update",
+    "zero-dependency"
+  ]
+}
