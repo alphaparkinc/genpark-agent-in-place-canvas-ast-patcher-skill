@@ -1,0 +1,6 @@
+name: genpark-agent-in-place-canvas-ast-patcher-skill
+version: 1.0.0
+description: Fine-grained block AST patcher for in-place canvas editing allowing surgical node updates without full document rebuild
+command: python
+args:
+  - mcp_server.py
