@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Fine-grained block AST patcher for in-place canvas editing allowing surgical node updates without full document rebuild",
   "category": "Service",
-  "dependencies": [],
   "topics": [
     "mcp",
     "canvas-editor",
